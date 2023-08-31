@@ -1,0 +1,257 @@
+Script started on 2022-11-22 16:42:33-07:00 [TERM="xterm-256color" TTY="/dev/pts/23" COLUMNS="204" LINES="63"]
+]0;namnguyen.vu1@csa3:~/Downloads[?2004hnamnguyen.vu1@csa3:~/Downloads$ ./myprog
+[?2004l[H[2J[3J### Queue Operations ###
+
+Press 1 - Enqueue, 2 - Dequeue, 3 - Display, 4 - Exit
+Your option? 1
+
+Enter the positive integer value to be enqueued: 100
+
+Press the return key to continue . . . 
+[H[2J[3J### Queue Operations ###
+
+Press 1 - Enqueue, 2 - Dequeue, 3 - Display, 4 - Exit
+Your option? 1
+
+Enter the positive integer value to be enqueued: 101
+
+Press the return key to continue . . . 1 
+[H[2J[3J### Queue Operations ###
+
+Press 1 - Enqueue, 2 - Dequeue, 3 - Display, 4 - Exit
+Your option? 1
+
+Enter the positive integer value to be enqueued: 102
+
+Press the return key to continue . . . 1 
+[H[2J[3J### Queue Operations ###
+
+Press 1 - Enqueue, 2 - Dequeue, 3 - Display, 4 - Exit
+Your option? 1
+
+Enter the positive integer value to be enqueued: 103
+
+Press the return key to continue . . . 
+[H[2J[3J### Queue Operations ###
+
+Press 1 - Enqueue, 2 - Dequeue, 3 - Display, 4 - Exit
+Your option? 1
+
+Enter the positive integer value to be enqueued: 30  2 104
+
+Press the return key to continue . . . 
+[H[2J[3J### Queue Operations ###
+
+Press 1 - Enqueue, 2 - Dequeue, 3 - Display, 4 - Exit
+Your option? 1
+
+Enter the positive integer value to be enqueued: 105
+
+Press the return key to continue . . . 
+[H[2J[3J### Queue Operations ###
+
+Press 1 - Enqueue, 2 - Dequeue, 3 - Display, 4 - Exit
+Your option? 1
+
+Enter the positive integer value to be enqueued: 106
+
+Press the return key to continue . . . 
+[H[2J[3J### Queue Operations ###
+
+Press 1 - Enqueue, 2 - Dequeue, 3 - Display, 4 - Exit
+Your option? 1
+
+Enter the positive integer value to be enqueued: 107
+
+Press the return key to continue . . . 
+[H[2J[3J### Queue Operations ###
+
+Press 1 - Enqueue, 2 - Dequeue, 3 - Display, 4 - Exit
+Your option? 1
+
+Enter the positive integer value to be enqueued: 108
+Queue overflow! Cannot enqueue into a full queue.
+
+Press the return key to continue . . . 3
+[H[2J[3J### Queue Operations ###
+
+Press 1 - Enqueue, 2 - Dequeue, 3 - Display, 4 - Exit
+Your option? 3
+
+Current queue contents:
+  100 <-- head of queue
+  101
+  102
+  103
+  104
+  105
+  106
+  107 <-- tail of queue
+
+Press the return key to continue . . . 
+[H[2J[3J### Queue Operations ###
+
+Press 1 - Enqueue, 2 - Dequeue, 3 - Display, 4 - Exit
+Your option? 2
+
+Dequeued value is 100
+
+Press the return key to continue . . . 
+[H[2J[3J### Queue Operations ###
+
+Press 1 - Enqueue, 2 - Dequeue, 3 - Display, 4 - Exit
+Your option? 3
+
+Current queue contents:
+  101 <-- head of queue
+  102
+  103
+  104
+  105
+  106
+  107 <-- tail of queue
+
+Press the return key to continue . . . 
+[H[2J[3J### Queue Operations ###
+
+Press 1 - Enqueue, 2 - Dequeue, 3 - Display, 4 - Exit
+Your option? 2
+
+Dequeued value is 101
+
+Press the return key to continue . . . 
+[H[2J[3J### Queue Operations ###
+
+Press 1 - Enqueue, 2 - Dequeue, 3 - Display, 4 - Exit
+Your option? 3
+
+Current queue contents:
+  102 <-- head of queue
+  103
+  104
+  105
+  106
+  107 <-- tail of queue
+
+Press the return key to continue . . . 
+[H[2J[3J### Queue Operations ###
+
+Press 1 - Enqueue, 2 - Dequeue, 3 - Display, 4 - Exit
+Your option? 2
+
+Dequeued value is 102
+
+Press the return key to continue . . . 
+[H[2J[3J### Queue Operations ###
+
+Press 1 - Enqueue, 2 - Dequeue, 3 - Display, 4 - Exit
+Your option? 3
+
+Current queue contents:
+  103 <-- head of queue
+  104
+  105
+  106
+  107 <-- tail of queue
+
+Press the return key to continue . . . 
+[H[2J[3J### Queue Operations ###
+
+Press 1 - Enqueue, 2 - Dequeue, 3 - Display, 4 - Exit
+Your option? 2
+
+Dequeued value is 103
+
+Press the return key to continue . . . 
+[H[2J[3J### Queue Operations ###
+
+Press 1 - Enqueue, 2 - Dequeue, 3 - Display, 4 - Exit
+Your option? 3
+
+Current queue contents:
+  104 <-- head of queue
+  105
+  106
+  107 <-- tail of queue
+
+Press the return key to continue . . . 
+[H[2J[3J### Queue Operations ###
+
+Press 1 - Enqueue, 2 - Dequeue, 3 - Display, 4 - Exit
+Your option? 2
+
+Dequeued value is 104
+
+Press the return key to continue . . . 
+[H[2J[3J### Queue Operations ###
+
+Press 1 - Enqueue, 2 - Dequeue, 3 - Display, 4 - Exit
+Your option? 3
+
+Current queue contents:
+  105 <-- head of queue
+  106
+  107 <-- tail of queue
+
+Press the return key to continue . . . 
+[H[2J[3J### Queue Operations ###
+
+Press 1 - Enqueue, 2 - Dequeue, 3 - Display, 4 - Exit
+Your option? 2
+
+Dequeued value is 105
+
+Press the return key to continue . . . 3 
+[H[2J[3J### Queue Operations ###
+
+Press 1 - Enqueue, 2 - Dequeue, 3 - Display, 4 - Exit
+Your option? 3
+
+Current queue contents:
+  106 <-- head of queue
+  107 <-- tail of queue
+
+Press the return key to continue . . . 
+[H[2J[3J### Queue Operations ###
+
+Press 1 - Enqueue, 2 - Dequeue, 3 - Display, 4 - Exit
+Your option? 2
+
+Dequeued value is 106
+
+Press the return key to continue . . . 
+[H[2J[3J### Queue Operations ###
+
+Press 1 - Enqueue, 2 - Dequeue, 3 - Display, 4 - Exit
+Your option? 3
+
+Current queue contents:
+  107 <-- head of queue <-- tail of queue
+
+Press the return key to continue . . . 
+[H[2J[3J### Queue Operations ###
+
+Press 1 - Enqueue, 2 - Dequeue, 3 - Display, 4 - Exit
+Your option? 2
+
+Dequeued value is 107
+
+Press the return key to continue . . . 
+[H[2J[3J### Queue Operations ###
+
+Press 1 - Enqueue, 2 - Dequeue, 3 - Display, 4 - Exit
+Your option? 3
+
+Empty queue
+
+Press the return key to continue . . . 
+[H[2J[3J### Queue Operations ###
+
+Press 1 - Enqueue, 2 - Dequeue, 3 - Display, 4 - Exit
+Your option? 3 4
+
+Terminating program
+]0;namnguyen.vu1@csa3:~/Downloads[?2004hnamnguyen.vu1@csa3:~/Downloads$ exit
+[?2004lexit
+
+Script done on 2022-11-22 16:44:01-07:00 [COMMAND_EXIT_CODE="0"]
